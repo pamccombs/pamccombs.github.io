@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "Love and the Love of Competition"
-date:       2018-04-24 09:08:45 +0000
+date:       2018-04-24 05:08:46 -0400
 permalink:  love_and_the_love_of_competition
 ---
 
