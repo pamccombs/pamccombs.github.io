@@ -1,15 +1,14 @@
 # Site settings
+author: Patrick M.
 title: Programming : Frowns, then Happiness
 header-img: img/home-bg.png
 email: pa.mccombs1@gmail.com
-copyright_name: pamccombs
+copyright_name: Patrick M.
 description: > # this means to ignore newlines until "baseurl:"
   Frowns First
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  pamccombs
-learn_profile: pamccombs
-email_username: pa.mccombs1@gmail.com
 
 # Build settings
 markdown: kramdown
