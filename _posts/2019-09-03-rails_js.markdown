@@ -1,0 +1,9 @@
+---
+layout: post
+title:      "Rails+JS  "
+date:       2019-09-04 03:11:45 +0000
+permalink:  rails_js
+---
+
+
+It was recommened that I only use client-side js, and im glad that I did. I believe I'm well prepared to enter the React/Redux section and prepare to move forward with my career. While my project (based on game reviews) is not too visually appealing, the doors that js opens for my Rails app is amazing. With more in-depth tweaking and styling I would say the tools given allow you to be on par with today's standard of web applications. I'm excited to see what I can conquer next.
