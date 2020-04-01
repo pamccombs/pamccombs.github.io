@@ -1,18 +1,15 @@
 ---
 layout: post
 title:      "Implementing Assets"
-date:       2020-03-12 03:55:31 +0000
+date:       2020-03-11 23:55:32 -0400
 permalink:  implementing_assets
 ---
 
-Figuring out how and where to place assets.
+Figuring out how to implement and where to place assets.
 
+Through research there doesn’t seem to be an exact consensus on where to place things. Some say in src, some say to create a folder in root. I decided to place them in the src folder. I feel it to be great practice to organize everything into specific folders so everything is easy to find.
 
-I've just researched animations for one of my applications and it's actually easier than I'd imagined (https://reactjs.org/docs/animation.html). I’ve realized that things are better to understand with experience...and yes ‘duh!’ right? Before I had no idea how I was going to do anything and now I can I visually plan you what I want to do and know how to prepare for execution.
+I now begin the journey of placing them. This shouldn’t be too difficult as it would mostly involve CSS manipulation to find ideal spots. I am using a created mock up on where to place things so that’s positive. This allows me to only worry about the code and less about the creativity.
 
-I’m going to create a title page component that transitions into the home page. I’m not sure about the transition duration, but I will test it at a 3 second period and see if it isn’t awkward.
-Maybe transitions into the next pages might be positive as well, I’ll do some research on how to make this look good. I feel like this steps into the web developer field (just a bit, lol), but not too far out of my software engineer training. Seeing the solutions I program and being presented in an appealing way is something I take pride in.
-
-Sometimes you just have to do it by yourself!
-
+Hopefully this segment can help, if even a bit! Happy coding!
 
