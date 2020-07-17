@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "The Beauty of Flexbox"
-date:       2020-07-17 04:41:19 +0000
+date:       2020-07-17 00:41:20 -0400
 permalink:  the_beauty_of_flexbox
 ---
 
